@@ -27,9 +27,9 @@ I have ongoing work with Southern Ocean reconstructions from satellite.
 During my PhD, we developed an updated Satellite Gravest Empirical Mode (SatGEM) 
 methodology and with it reconstructed variability of key water masses in the 
 Southern Ocean. 
+![Southern Ocean reconstruction](/assets/images/satGEM_horz.png)
 
 Currently, we are using the SatGEM method with the high resolution SWOT 
 satellite to reconstruct vertical velocities in the ocean. 
 
-![Southern Ocean reconstruction](/assets/images/satGEM_horz.png)
 ![Antarctic Bottom Water decline](/assets/images/AABW_volume_loss_updated.png)
