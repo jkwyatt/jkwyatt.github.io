@@ -18,4 +18,4 @@ toc_label: "On This Page"
 
 2. Jakes, M., Phillips, H., Foppert, A., Bindoff, N., Polzin, K., **Wyatt, J.**, Rintoul, S., and Tranchant, YT., (2025).  
    Generation of Fine-Scale Thermohaline Variability in the Antarctic Circumpolar Current . *Journal of Physical Oceanography*.  
-   [DOI]([https://doi.org/...](https://doi.org/10.1175/JPO-D-25-0061.1))
+   [DOI](https://doi.org/10.1175/JPO-D-25-0061.1)
