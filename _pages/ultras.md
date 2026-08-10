@@ -50,7 +50,7 @@ with precisely the seriousness they deserve.
 
 To the best of my knowledge, the fastest ever marathon on a treadmill in the Southern Ocean. 
 Probably the only. 
-Read more about it here: https://aappartnership.org.au/the-focus-42-2-marine-marathon/
+Read more about it here: [https://aappartnership.org.au/the-focus-42-2-marine-marathon/]
 
 ---
 
