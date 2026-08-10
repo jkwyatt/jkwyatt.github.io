@@ -41,18 +41,18 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "James Wyatt"
-  avatar : "/assets/images/profile.jpg"
-  bio    : "Observational Oceanographer at the Faroe Marine Research Institute"
+  name: "James Wyatt"
+  avatar: "/assets/images/profile.jpg"
+  bio: "Observational Oceanographer at the Faroe Marine Research Institute"
   location: "Faroe Islands"
   links:
-     - label: "Faroe Marine Research Institute"
+    - label: "Faroe Marine Research Institute"
       icon: "fas fa-fw fa-building"
       url: "https://www.hav.fo/famri/"
 
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
-      url: "jamesw@hav.fo"
+      url: "mailto:jamesw@hav.fo"
 
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
