@@ -44,9 +44,9 @@ with precisely the seriousness they deserve.
 
 ### Southern Ocean Treadmill Marathon
 
-**Current record:** 3:26:00
-**Date established:** November 2023  
-**Location:** Southern Ocean
+- **Current record:** 3:26:00
+- **Date established:** November 2023  
+- **Location:** Southern Ocean
 
 To the best of my knowledge, the fastest ever marathon on a treadmill in the Southern Ocean. 
 Probably the only. 
