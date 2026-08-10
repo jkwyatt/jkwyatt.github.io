@@ -16,4 +16,4 @@ I completed my PhD at the Institute for Marine and Antarctic Studies, in Tasmani
 I'm an also a keen trail runner, and general outdoor and vibes enthusiast. 
 
 [Read more about my research](/research/){: .btn .btn--primary}
-[Read more about my running](/ultras/){: .btn .btn--primary}
+[Other random things](/ultras/){: .btn .btn--primary}
