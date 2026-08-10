@@ -21,7 +21,7 @@ A beautiful promeander through the Romanian mountains. Hills, mud, castles, and 
 - **Location:** Somewhere unnecessarily hilly, Romania
 - [Route on Strava](https://strava.app.link/DoL8ZqnCu5b)
 
-![Description of the event](/assets/images/ladysrocks.jpg)
+![Description of the event](/assets/images/ladysrocks.jpeg)
 
 ### Ultra Trail Australia, Blue Mountains — May 2025
 A huge suffer fest. Did I spend 3 months in a moon boot after this? You bet. 
@@ -33,7 +33,7 @@ Worth it? You bet.
 - **Location:** Blue Mountains, Australia
 - [Route on Strava](https://strava.app.link/yDtxglWCu5b)
 
-![Description of the event](/assets/images/uta.jpg)
+![Description of the event](/assets/images/uta.jpeg)
 
 ---
 
