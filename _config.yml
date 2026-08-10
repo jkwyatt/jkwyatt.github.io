@@ -42,7 +42,7 @@ plugins:
 
 author:
   name   : "James Wyatt"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/profile.jpg"
   bio    : "Observational Oceanographer at the Faroe Marine Research Institute"
   location: "Faroe Islands"
   links:
